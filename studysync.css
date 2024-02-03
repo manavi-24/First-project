@@ -58,7 +58,7 @@ display:none;
         margin-right:50px;
     }
 .part1{
-    margin-top:300px;
+    margin-top:700px;
 }
 .part2{
    grid-template-columns: repeat(2,1fr);
