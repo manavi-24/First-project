@@ -33,7 +33,7 @@ justify-content: space-between;
 align-items: center;
 
 } 
-@media (max-width:725px) {
+@media (max-width:825px) {
     .box{
         padding-top: 100px;
     }
@@ -81,10 +81,7 @@ display:none;
 .head1{
     text-align: center;
 }
-.cardsbox{
-    display: flex;
-    flex-direction: column;
-}
+
 .newsletter{
     display:flex;
     flex-direction:column;
